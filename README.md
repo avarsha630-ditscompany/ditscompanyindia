@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/mastermind076" target="blank"><img src="https://img.shields.io/twitter/follow/mastermind076?logo=twitter&style=for-the-badge" alt="mastermind076" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/rahulahirwar0108](https://linktr.ee/rahulahirwar0108)
-
-- 💬 Ask me about **www.linkedin.com/in/rahul0108**
+- 👨‍💻 All of my projects are available at 
+- 💬 Ask me about **https://www.linkedin.com/company/100678378/admin/dashboard/**
 
 - ⚡ Fun fact **i am funny**
 
